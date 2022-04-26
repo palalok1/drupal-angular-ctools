@@ -1,5 +1,8 @@
 <?php
 
+//let me config and data assets of the core
+
+
 /**
  * @file
  * Default .module file.
